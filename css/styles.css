@@ -1,7 +1,9 @@
 .columns {
   float: left;
   width: 30%;
-  margin: 5px;
+  padding: 5px;
+  display: block;
+  margin: auto;
 }
 
 .columns h2 {
