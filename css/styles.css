@@ -7,16 +7,40 @@ img {
   width: 300px;
 }
 
+.btn {
+  text-align: center;
+}
+
+
 .columns {
-  float: left;
+  /* float: left; */
   width: 300px;
   padding: 5px;
+  text-align: center;
 }
 
 .columns h2 {
-  color: grey;
+  /* color: grey; */
   text-align: center;
   margin-top: auto;
+}
+
+.buttons {
+  text-align: center;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+.light-mode {
+  background-color: white;
+  color: black;
+}
+
+.light-span {
+  display:none
 }
 
 @media screen and (max-width:1000px) and (min-width:800px)  {
