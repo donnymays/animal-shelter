@@ -31,4 +31,4 @@ $(document).ready(function() {
     $("#dark-button").removeClass("btn-light");
     $("#dark-button").addClass("btn-dark");
   });
-});
+})
